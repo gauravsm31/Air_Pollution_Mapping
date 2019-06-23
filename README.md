@@ -14,4 +14,4 @@ We apply three approaches for mapping and prediction:
 
 3. A measurement of the PM level trend using radial basis function interpolation achieved an overall R2 = 0.873. (Mingyu Wang)
 
-
+![alt text](https://github.com/gauravsm31/CSE547-Air-Pollution-Mapping/blob/master/150_og.png)
