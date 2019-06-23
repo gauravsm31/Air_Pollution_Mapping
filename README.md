@@ -10,7 +10,7 @@ We apply three approaches for mapping and prediction:
 
 1. Using Bellkor recommendation system, and achieved an overall R2 = 0.928 for measuring the PM level trend (Su Ye - "Bellkor_data_process.py", "Bellkor_SGD.py", "Bellkor_data_process.py")
 
-2. PM levels are mapped and predicted onto 1km X 1km grid points over the city using semi-supervised classification. L1-regularized logistic regression along with expectation maximization results in 69.5% accuracyfor mapping and 61.5% - 52% accuracy for prediction from 1 hr - 4 hrs respectively. (Gaurav Mahamuni - "Semi-supervised Classification of Pollution.ipynb")
+2. PM levels are mapped and predicted onto 1km X 1km grid points over the city using semi-supervised classification. L1-regularized logistic regression along with expectation maximization results in 69.5% accuracy for mapping and 61.5% - 52% accuracy for prediction from 1 hr - 4 hrs respectively. (Gaurav Mahamuni - "Semi-supervised Classification of Pollution.ipynb")
 
 3. A measurement of the PM level trend using radial basis function interpolation achieved an overall R2 = 0.873. (Mingyu Wang)
 
