@@ -1,4 +1,4 @@
-# Air Pollution Mapping
+# Air Pollution Mapping and Prediction
 Air pollution monitoring is done by analyzing particulate matter (PM) in air. PM analysis is important in assessing an individual’s exposure to potentially harmful particles, such as aeroallergens, toxins, and emissions from combustion sources.
 
 Currently, PM is recorded at sparse locations in a geographical area, however, the PM level can vary dramatically over small distances. 
