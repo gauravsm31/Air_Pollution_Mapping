@@ -15,8 +15,13 @@ We apply three approaches for mapping and prediction:
 3. A measurement of the PM level trend using radial basis function interpolation achieved an overall R2 = 0.873. (Mingyu Wang)
 
 ![alt text](https://github.com/gauravsm31/CSE547-Air-Pollution-Mapping/blob/master/150_og.png)
-PM2.5 (particulate matter size less than 2.5 micrometers) concentration labels for 7th March 6:00 AM at 29 sensor location
+PM2.5 (particulate matter size less than 2.5 micrometers) concentration labels for 7th March 6:00 AM at 29 sensor location.
  
  ![alt text](https://github.com/gauravsm31/CSE547-Air-Pollution-Mapping/blob/master/150_mapped.png)
 PM2.5 concentration labels for 7th March 6:00 AM mapped by semi-supervised L1-regularized logistic regression model.
  
+File "EEM Mixing Samples.ipynb" generates data from 20 original samples.
+
+File "PCA Py3 Mixed.ipynb" predicts concentration of toxic compounds using Principal Component Regression.
+
+Please read "Project_Report.pdf" for further insight. 
