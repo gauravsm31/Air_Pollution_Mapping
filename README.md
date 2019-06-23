@@ -20,4 +20,4 @@ PM2.5 (particulate matter size less than 2.5 micrometers) concentration labels f
  ![alt text](https://github.com/gauravsm31/CSE547-Air-Pollution-Mapping/blob/master/150_mapped.png)
 PM2.5 concentration labels for 7th March 6:00 AM mapped by semi-supervised L1-regularized logistic regression model.
  
-Please read "Project_Report.pdf" for further insight. 
+Please read "CSE_547_Project__Final_Report.pdf" for further insight. 
